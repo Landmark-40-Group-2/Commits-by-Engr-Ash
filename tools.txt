@@ -1,0 +1,4 @@
+SDLC
+Linu
+aws
+ec2
